@@ -36,6 +36,6 @@
   </modules>
 
   <properties>
-    <junit.version>X4.11</junit.version>
+    <junit.version>invalid_value_at_root_pom_xml</junit.version>
   </properties>
 </project>
